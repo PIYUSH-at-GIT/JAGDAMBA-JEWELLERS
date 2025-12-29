@@ -1,0 +1,1 @@
+open the jewelry page.
